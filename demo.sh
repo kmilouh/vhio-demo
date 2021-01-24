@@ -1,2 +1,3 @@
-echo "$USER hi !!"
+#!/bin/bash
+echo "$USERSTR hi !!"
 
